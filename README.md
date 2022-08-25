@@ -1,2 +1,1 @@
-# K-Closest-Points-to-Origin
-Array Math
+https://leetcode.com/problems/k-closest-points-to-origin/
